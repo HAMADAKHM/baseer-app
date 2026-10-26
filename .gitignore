@@ -1,0 +1,7 @@
+.env
+*.env
+*.jks
+*.keystore
+key.properties
+GoogleService-Info.plist
+google-services.json
